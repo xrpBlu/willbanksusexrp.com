@@ -4,6 +4,12 @@
 	margin: 0 auto; 
 }
 
+@font-face {
+    font-family: Futura;
+}
+
+
+
 body {
     background-color: black;
 }
