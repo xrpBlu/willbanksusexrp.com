@@ -8,10 +8,13 @@ body {
     background-color: black;
 }
 
-h1 {
+h1, h2, h3 {
 	color: #444D56;
+}
+
+h1 {
 	font-weight: bold;
-	font-size: 58px;
+	font-size: 52px;
 }
 
 
