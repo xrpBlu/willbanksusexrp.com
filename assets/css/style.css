@@ -4,14 +4,9 @@
 	margin: 0 auto; 
 }
 
-@font-face {
-    font-family: Futura;
-}
-
-
-
 body {
-    background-color: black;
+	background-color: black;
+	font-family: Futura;
 }
 
 h1, h2, h3, p {
