@@ -1,3 +1,4 @@
-#theme: jekyll-theme-midnight
-theme: jekyll-swiss
-theme_color: black
+theme: jekyll-theme-midnight
+#theme: jekyll-swiss
+#theme_color: black
+show_downloads: false
