@@ -8,8 +8,10 @@ body {
     background-color: black;
 }
 
-p {
-    color: #444D56;
+h1 {
+	color: #444D56;
+	font-weight: bold;
+	font-size: 32px;
 }
 
 
