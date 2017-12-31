@@ -9,18 +9,22 @@ body {
 	font-family: Futura;
 	margin:40px
 	auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0
-10px}h1,h2,h3{line-height:1.2
+	10px
 }
 
-h1, h2, h3, p {
+h1, h2, h3 {
 	color: #444D56;
+	line-height:1.2
+}
+
+p {
+color: #444D56;
 }
 
 h1 {
 	font-weight: bold;
 	font-size: 52px;
 }
-
 
 a {
     color: #009BD3;
