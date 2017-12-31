@@ -9,3 +9,5 @@
 3. <cite>[Xrpchat.com: [Evidence] Dismissing the myth that XRP will not be used by Banks' ](https://www.xrpchat.com/topic/3650-evidence-dismissing-the-myth-that-xrp-will-not-be-used-by-banks/)</cite>
 4. <cite>[Quora.com: Ripple is Open Source. Why should banks use XRP instead of building their own private Ripple network?' ](https://www.quora.com/Ripple-is-Open-Source-Why-should-banks-use-XRP-instead-of-building-their-own-private-Ripple-network/answer/Ron-Ginn)</cite>
 5. <cite>[Xrpchat.com: Common questions and concerns about Ripple' ](https://www.xrpchat.com/faq)</cite>
+6. <cite>[Ripple XRP – debunking the myths](https://zerpening.com/2017/12/29/ripple-xrp-debunking-mainstream-misconceptions/)</cite>
+
