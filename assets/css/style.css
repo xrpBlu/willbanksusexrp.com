@@ -3,9 +3,9 @@
 
 body {
 	background-color: black;
-	font-family: Futura;
+	font-family: sans-serif;
 	margin:40px
-	auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0
+	auto;max-width:800 px;line-height:1.6;font-size:18px;color:#444;padding:0
 	10px
 }
 
